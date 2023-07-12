@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="ZaksoHammerNokia" /> <!-- (Required) Internal name, like an ID, of the mod. Should be globally unique, like an author prefix + name. Only allowed chars: Numbers, latin letters, underscores, dash -->
+    <DisplayName value="HammerNokia" /> <!-- (Required) Name used for display purposes, like shown in the mods UI at some point. Could be the same as you would later on use on workshop or wherever mods get distributed -->
+    <Version value="0.0.1" /> <!-- (Required) SemVer version of the mod. Has to be in the format major.minor[.build[.revision]] (i.e. build and revision can be left out, recommend using them though as typically done with Semantic Versioning -->
+    <Description value="An almost impossible tool to get, I had to take it from a God to bring it here" /> <!-- (Optional) More text to show on UIs -->
+    <Author value="zakso#7961" /> <!-- (Optional) Name(s) of the author(s) -->
+    <Website value="https://github.com/MisterBlogester" /> <!-- (Optional) URL of a website of the mod -->
+</xml>
